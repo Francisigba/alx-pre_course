@@ -1,2 +1,1 @@
-
-first good programmer
+my second readme updated
